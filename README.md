@@ -1,7 +1,3 @@
-Below is a polished, fully‑structured **README.md** suitable for your GitHub project, written after reviewing your Kaggle notebook and integrating the full context of your system, features, and purpose.
-
----
-
 # 🌍 Environmental Impact Assessment System  
 ### *Gen AI Intensive Course — Capstone Competition 2025Q1*  
 ### *Developed by Nima Eshaghi*
